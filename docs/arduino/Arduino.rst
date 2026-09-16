@@ -402,7 +402,7 @@ Arduino套件
 
 .. |KE3017 KE3018 Keyes 2021入门学习套件| raw:: html
 
-  <a href="https://buildocs.cc/projects/KE3017-KE3018" target="_blank">KE3017 KE3018 Keyes 2021入门学习套件</a>
+  <a href="https://buildocs.cc/projects/KE3017-KE3018/zh-cn/latest/" target="_blank">KE3017 KE3018 Keyes 2021入门学习套件</a>
 
 * |KE3019-KE3019S-KE3020-KE3020S-KE3094-KE3094S Keyes Arduino DIY电子积木 42合1 传感器套装|
 
@@ -489,21 +489,21 @@ Arduino套件
 
 .. |KE3080-KE3081-KE3082(KE3080S-KE3081S-KE3082S) Keyes Arduino UNO R4 42款传感器学习套装| raw:: html
 
-  <a href="https://buildocs.cc/projects/KE3080-KE3081-KE3082-KE3080S-KE3081S-KE3082S" target="_blank">KE3080-KE3081-KE3082(KE3080S-KE3081S-KE3082S) Keyes Arduino UNO R4 42款传感器学习套装</a>
+  <a href="https://buildocs.cc/projects/KE3080-KE3081-KE3082-KE3080S-KE3081S-KE3082S/zh-cn/latest/" target="_blank">KE3080-KE3081-KE3082(KE3080S-KE3081S-KE3082S) Keyes Arduino UNO R4 42款传感器学习套装</a>
 
 
 * |KE3083-KE3084-KE3085(KE3083S-KE3084S-KE3085S) Keyes Arduino UNO R4 37款传感器学习套装|
 
 .. |KE3083-KE3084-KE3085(KE3083S-KE3084S-KE3085S) Keyes Arduino UNO R4 37款传感器学习套装| raw:: html
 
-  <a href="https://buildocs.cc/projects/KE3083-KE3084-KE3085-KE3083S-KE3084S-KE3085S" target="_blank">KE3083-KE3084-KE3085(KE3083S-KE3084S-KE3085S) Keyes Arduino UNO R4 37款传感器学习套装</a>
+  <a href="https://buildocs.cc/projects/KE3083-KE3084-KE3085-KE3083S-KE3084S-KE3085S/zh-cn/latest/" target="_blank">KE3083-KE3084-KE3085(KE3083S-KE3084S-KE3085S) Keyes Arduino UNO R4 37款传感器学习套装</a>
 
 
 * |KE3086-KE3087-KE3088(KE3086S-KE3087S-KE3088S) Keyes Arduino UNO R4 24款传感器学习套装|
 
 .. |KE3086-KE3087-KE3088(KE3086S-KE3087S-KE3088S) Keyes Arduino UNO R4 24款传感器学习套装| raw:: html
 
-  <a href="https://buildocs.cc/projects/KE3086-KE3087-KE3088-KE3086S-KE3087S-KE3088S" target="_blank">KE3086-KE3087-KE3088(KE3086S-KE3087S-KE3088S) Keyes Arduino UNO R4 24款传感器学习套装</a>
+  <a href="https://buildocs.cc/projects/KE3086-KE3087-KE3088-KE3086S-KE3087S-KE3088S/zh-cn/latest/" target="_blank">KE3086-KE3087-KE3088(KE3086S-KE3087S-KE3088S) Keyes Arduino UNO R4 24款传感器学习套装</a>
 
 
 
@@ -526,13 +526,13 @@ Arduino套件
 
 .. |KE3097(KE3097S) Keyes STEM电子积木 传感器初级套件| raw:: html
 
-  <a href="https://buildocs.cc/projects/KE3097-KE3097S" target="_blank">KE3097(KE3097S) Keyes STEM电子积木 传感器初级套件</a>
+  <a href="https://buildocs.cc/projects/KE3097-KE3097S/zh-cn/latest/" target="_blank">KE3097(KE3097S) Keyes STEM电子积木 传感器初级套件</a>
 
 * |KE3106 语音控制与WiFi控制扩展包|
 
 .. |KE3106 语音控制与WiFi控制扩展包| raw:: html
 
-  <a href="https://buildocs.cc/projects/KE3106/" target="_blank">KE3106 语音控制与WiFi控制扩展包</a>
+  <a href="https://buildocs.cc/projects/KE3106/zh-cn/latest/" target="_blank">KE3106 语音控制与WiFi控制扩展包</a>
 
 
 
@@ -542,7 +542,7 @@ Arduino套件
 
 .. |RT0015 超声波测距避障模块云台套件| raw:: html
 
-  <a href="https://buildocs.cc/projects/RT0015/" target="_blank">RT0015 超声波测距避障模块云台套件</a>
+  <a href="https://buildocs.cc/projects/RT0015/zh-cn/latest/" target="_blank">RT0015 超声波测距避障模块云台套件</a>
 
 
 

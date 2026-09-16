@@ -1601,7 +1601,7 @@ STEMdiy系列传感器和模块
 
 .. |KY0126 HY-SRF05超声波传感器| raw:: html
 
-  <a href="https://buildocs.cc/projects/KY0126/" target="_blank">KY0126 HY-SRF05超声波传感器</a>
+  <a href="https://buildocs.cc/projects/KY0126/zh-cn/latest/" target="_blank">KY0126 HY-SRF05超声波传感器</a>
 
 
 

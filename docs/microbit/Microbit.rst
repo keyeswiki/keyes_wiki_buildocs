@@ -148,14 +148,14 @@ Micro bit 机器人
 
 .. |KE3060(KE3061) Keyes 4自由度机械手臂Microbit学习套装| raw:: html
 
-  <a href="https://buildocs.cc/projects/KE3060-KE3061" target="_blank">KE3060(KE3061) Keyes 4自由度机械手臂Microbit学习套装</a>
+  <a href="https://buildocs.cc/projects/KE3060-KE3061/zh-cn/latest/" target="_blank">KE3060(KE3061) Keyes 4自由度机械手臂Microbit学习套装</a>
 
 
 * |KE3062-KE3063 KEYES 4WD Microbit麦克纳姆轮智能小车|
 
 .. |KE3062-KE3063 KEYES 4WD Microbit麦克纳姆轮智能小车| raw:: html
 
-  <a href="https://buildocs.cc/projects/KE3062-KE3063" target="_blank">KE3062-KE3063 KEYES 4WD Microbit麦克纳姆轮智能小车</a>
+  <a href="https://buildocs.cc/projects/KE3062-KE3063/zh-cn/latest/" target="_blank">KE3062-KE3063 KEYES 4WD Microbit麦克纳姆轮智能小车</a>
 
 
 

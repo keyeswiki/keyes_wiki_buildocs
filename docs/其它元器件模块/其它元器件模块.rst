@@ -66,13 +66,13 @@
 
 .. |KT0314-KT0315-KT0316-KT0317液位传感器报警器| raw:: html
 
-  <a href="https://buildocs.cc/projects/KT0314-KT0315-KT0316-KT0317/" target="_blank">KT0314-KT0315-KT0316-KT0317液位传感器报警器</a>
+  <a href="https://buildocs.cc/projects/KT0314-KT0315-KT0316-KT0317/zh-cn/latest/" target="_blank">KT0314-KT0315-KT0316-KT0317液位传感器报警器</a>
 
 * |KT0186 P10 16x32全彩LED显示模块|
 
 .. |KT0186 P10 16x32全彩LED显示模块| raw:: html
 
-  <a href="https://buildocs.cc/projects/KT0186/" target="_blank">KT0186 P10 16x32全彩LED显示模块</a>
+  <a href="https://buildocs.cc/projects/KT0186/zh-cn/latest/" target="_blank">KT0186 P10 16x32全彩LED显示模块</a>
 
 
 * |KE3104 Sengo1 AI视觉图卡创客扩展包|
@@ -91,13 +91,13 @@
 
 .. |TS1151 LCD1602字符按键液晶屏输入输出扩展板| raw:: html
 
-  <a href="https://buildocs.cc/projects/TS1151/" target="_blank">TS1151 LCD1602字符按键液晶屏输入输出扩展板</a>
+  <a href="https://buildocs.cc/projects/TS1151/zh-cn/latest/" target="_blank">TS1151 LCD1602字符按键液晶屏输入输出扩展板</a>
 
 * |TS2408 Micro SD卡读写模块|
 
 .. |TS2408 Micro SD卡读写模块| raw:: html
 
-  <a href="https://buildocs.cc/projects/TS2408/" target="_blank">TS2408 Micro SD卡读写模块</a>
+  <a href="https://buildocs.cc/projects/TS2408/zh-cn/latest/" target="_blank">TS2408 Micro SD卡读写模块</a>
 
 
 
@@ -105,7 +105,7 @@
 
 .. |KY0076 XD-58C PulseSensor脉搏心率传感器| raw:: html
 
-  <a href="https://buildocs.cc/projects/KY0076/" target="_blank">KY0076 XD-58C PulseSensor脉搏心率传感器</a>
+  <a href="https://buildocs.cc/projects/KY0076/zh-cn/latest/" target="_blank">KY0076 XD-58C PulseSensor脉搏心率传感器</a>
 
 
 * |OR0422 JM2KG(小速比)齿轮箱|
@@ -130,19 +130,19 @@
 
 .. |22400154 WS2812 RGB 灯带（10 灯，30 cm，黑色板）| raw:: html
 
-  <a href="https://buildocs.cc/projects/22400154/" target="_blank">22400154 WS2812 RGB 灯带（10 灯，30 cm，黑色板）</a>
+  <a href="https://buildocs.cc/projects/22400154/zh-cn/latest/" target="_blank">22400154 WS2812 RGB 灯带（10 灯，30 cm，黑色板）</a>
 
 * |22400156 WS2812 RGB 灯带（30 灯，1 m，白色板）|
 
 .. |22400156 WS2812 RGB 灯带（30 灯，1 m，白色板）| raw:: html
 
-  <a href="https://buildocs.cc/projects/22400156/" target="_blank">22400156 WS2812 RGB 灯带（30 灯，1 m，白色板）</a>
+  <a href="https://buildocs.cc/projects/22400156/zh-cn/latest/" target="_blank">22400156 WS2812 RGB 灯带（30 灯，1 m，白色板）</a>
 
 * |22400157 19720245 WS2812B 幻彩 LED 灯带|
 
 .. |22400157 19720245 WS2812B 幻彩 LED 灯带| raw:: html
 
-  <a href="https://buildocs.cc/projects/22400157-19720245/" target="_blank">22400157 19720245 WS2812B 幻彩 LED 灯带</a>
+  <a href="https://buildocs.cc/projects/22400157-19720245/zh-cn/latest/" target="_blank">22400157 19720245 WS2812B 幻彩 LED 灯带</a>
 
 * |MD0535 HC-05 蓝牙串口兼容板（6 针、主从一体、带按键）|
 

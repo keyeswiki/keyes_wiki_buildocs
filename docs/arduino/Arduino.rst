@@ -163,14 +163,14 @@ Arduino机器人
 
 .. |KE0165P Keyes套件 4WD 蓝牙 多功能智能小车| raw:: html
 
-  <a href="https://buildocs.cc/projects/KE0165P" target="_blank">KE0165P Keyes套件 4WD 蓝牙 多功能智能小车</a>
+  <a href="https://buildocs.cc/projects/KE0165P/zh-cn/latest/" target="_blank">KE0165P Keyes套件 4WD 蓝牙 多功能智能小车</a>
 
 
 * |KE0166P Keyes套件 小乌龟 多功能智能小车 PLUS主板|
 
 .. |KE0166P Keyes套件 小乌龟 多功能智能小车 PLUS主板| raw:: html
 
-  <a href="https://buildocs.cc/projects/ke0166P" target="_blank">KE0166P Keyes套件 小乌龟 多功能智能小车 PLUS主板</a>
+  <a href="https://buildocs.cc/projects/ke0166P/zh-cn/latest/" target="_blank">KE0166P Keyes套件 小乌龟 多功能智能小车 PLUS主板</a>
 
 
 * |KE0167 Keyes套件 桌面 蓝牙 多功能智能小车|
@@ -183,7 +183,7 @@ Arduino机器人
 
 .. |KE0167P Keyes套件 桌面 蓝牙 多功能智能小车 PLUS主板| raw:: html
 
-  <a href="https://buildocs.cc/projects/KE0167P" target="_blank">KE0167P Keyes套件 桌面 蓝牙 多功能智能小车 PLUS主板</a>
+  <a href="https://buildocs.cc/projects/KE0167P/zh-cn/latest/" target="_blank">KE0167P Keyes套件 桌面 蓝牙 多功能智能小车 PLUS主板</a>
 
 
 * |KE0170 Keyes 迷你履带坦克机器人套件|
@@ -268,21 +268,21 @@ Arduino套件
 
 .. |KE0080(KE0081)  Keyes 基础版 学习套件 for Arduino| raw:: html
 
-  <a href="https://buildocs.cc/projects/KE0080-KE0081" target="_blank">KE0080(KE0081)  Keyes 基础版 学习套件 for Arduino</a>
+  <a href="https://buildocs.cc/projects/KE0080-KE0081/zh-cn/latest/" target="_blank">KE0080(KE0081)  Keyes 基础版 学习套件 for Arduino</a>
 
 
 * |KE0082(KE0083)  Keyes 超级版学习套件  for Arduino|
 
 .. |KE0082(KE0083)  Keyes 超级版学习套件  for Arduino| raw:: html
 
-  <a href="https://buildocs.cc/projects/KE0082-KE0083" target="_blank">KE0082(KE0083)  Keyes 超级版学习套件  for Arduino</a>
+  <a href="https://buildocs.cc/projects/KE0082-KE0083/zh-cn/latest/" target="_blank">KE0082(KE0083)  Keyes 超级版学习套件  for Arduino</a>
 
 
 * |KE0084(KE0085)Keyes 终极版 学习套件 for Arduino|
 
 .. |KE0084(KE0085)Keyes 终极版 学习套件 for Arduino| raw:: html
 
-  <a href="https://buildocs.cc/projects/KE0084-KE0085" target="_blank">KE0084(KE0085)Keyes 终极版 学习套件 for Arduino</a>
+  <a href="https://buildocs.cc/projects/KE0084-KE0085/zh-cn/latest/" target="_blank">KE0084(KE0085)Keyes 终极版 学习套件 for Arduino</a>
 
 
 * |KE0086  Keyes 37合1 传感器套件 for Arduino|
@@ -296,7 +296,7 @@ Arduino套件
 
 .. |KE0087(KE0088)  Keyes 电子积木传感器套件 for Arduino| raw:: html
 
-  <a href="https://buildocs.cc/projects/KE0087-KE0088" target="_blank">KE0087(KE0088)  Keyes 电子积木传感器套件 for Arduino</a>
+  <a href="https://buildocs.cc/projects/KE0087-KE0088/zh-cn/latest/" target="_blank">KE0087(KE0088)  Keyes 电子积木传感器套件 for Arduino</a>
 
 
 
